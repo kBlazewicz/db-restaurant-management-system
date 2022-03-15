@@ -15,3 +15,5 @@ Microsoft SQL
 
 ### Documentation with code 
 [Documentation](BazyDanychProjekt.pdf)
+
+###Made with [contributors-img](https://contrib.rocks).
